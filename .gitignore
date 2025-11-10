@@ -1,0 +1,10 @@
+/ImageNet_ResNet101_SpliceMix_te79.912_E163.pth.tar
+/checkpoint
+/Etc
+/LICENSE
+*.md
+*.txt
+/__pycache__
+*.tar
+/log*
+*.pyc
